@@ -1,0 +1,20 @@
+{
+  "name": "Pine Dash - Racing Dashboard",
+  "short_name": "Pine Dash",
+  "description": "OBD2 Bluetooth Racing Dashboard",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff00ff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%230a0a0a' width='512' height='512' rx='64'/><text x='256' y='320' font-size='200' text-anchor='middle' fill='%23ff00ff' font-family='Arial Black'>PD</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["auto", "utilities"],
+  "lang": "es"
+}
